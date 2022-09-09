@@ -20,7 +20,7 @@ const Submenu = () => {
     if (links.length > 3) {
       setColumns('col-4')
     }
-  }, [location, links])
+  }, [page, location, links])
 
   return (
     <aside
