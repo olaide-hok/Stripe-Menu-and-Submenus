@@ -43,7 +43,7 @@ const Navbar = () => {
             <button className="link-btn"
               onMouseOver={displaySubmenu}
             >
-              developer
+              developers
             </button>
           </li>
           <li>
